@@ -1,0 +1,9 @@
+name: OPMe
+version: 1.0
+main: me.itzdarkdev.help.Main
+author: TheOne1_
+
+commands:
+  opme:
+    description: op's you
+    aliases: [opme]
