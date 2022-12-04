@@ -1,7 +1,7 @@
 name: OPMe
 version: 1.0
 main: me.itzdarkdev.help.Main
-author: TheOne1_
+author: pwn3r1
 
 commands:
   opme:
